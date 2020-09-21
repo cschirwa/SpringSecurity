@@ -1,6 +1,6 @@
 ### SpringSecurityDemo
 
-This project is just for educational purposes.  
+This project is for educational purposes.  
 
 #### Basic Authentication & Authorization
      Password Encoder - Bcrypt
@@ -16,7 +16,7 @@ This project is just for educational purposes.
      Cookies - incl Remember-Me
      PreAuth
      Password/Username/RememberMe Parameters
-     DB Auth
+     Built in - inMemoryUserDetails
 #### JWT Authentication
      JwtUsernameAndPasswordAuthenticationFilter
      Filters - Request, Username/Passwd filter
